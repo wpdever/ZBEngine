@@ -1,1 +1,4 @@
 /Client/UnityProject/Library
+/Server/ZBEngine/obj
+/Server/ZBEngine/bin
+/Server/.vs
